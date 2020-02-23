@@ -1,0 +1,2 @@
+# HigchartsMap
+Created with CodeSandbox
